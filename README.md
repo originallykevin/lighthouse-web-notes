@@ -4,4 +4,5 @@
 
 ## Summary
 
-## This repository contains all of the notes taken by Kevin for the Lighthouse Labs Web Development Bootcamp
+## This repository contains all of the notes taken by [Kevin](https://github.com/originallykevin) for the Lighthouse Labs Web Development Bootcamp.
+
